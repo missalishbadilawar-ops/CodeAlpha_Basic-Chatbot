@@ -36,7 +36,7 @@ Basic-Chatbot/
 1. Clone the repository:
 
    ```bash
-   git clone <repository-link>
+   https://github.com/missalishbadilawar-ops/CodeAlpha_Basic-Chatbot.git
    ```
 
 2. Navigate to the project folder:
